@@ -1,0 +1,12 @@
+{
+  "env": {
+    "es6": true
+  },
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "jsx": true
+  },
+  "rules": {
+    "semi": [2, "never"]
+  }
+}
